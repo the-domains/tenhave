@@ -1,0 +1,28 @@
+name: tenhave
+favicon: null
+layout_spectrum: 0.4969724523834884
+typography_spectrum: 0.38587919576093554
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.26930233952589333
+  lightness: 0.35273998510092497
+  saturation: 0.9298998676240444
+  rhythmicContrast: 0.9391701607964933
+purpose: []
